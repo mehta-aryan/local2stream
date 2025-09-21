@@ -34,7 +34,7 @@ Transfer your local music collection to streaming platforms with intelligent mat
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/cipherex/local2stream.git
+   git clone https://github.com/codev-aryan/local2stream.git
    cd local2stream
    ```
 
@@ -213,7 +213,7 @@ This tool is for personal use only. Please respect the terms of service of strea
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/cipherex/local2stream/issues) page
+1. Check the [Issues](https://github.com/codev-aryan/local2stream/issues) page
 2. Create a new issue with detailed information
 3. Include error logs and configuration details
 4. For GUI-specific issues, include your operating system and Python version
@@ -227,6 +227,6 @@ If you encounter any issues or have questions:
 
 ---
 
-**Made with ❤️ by [Aryan](https://github.com/cipherex)**
+**Made with ❤️ by [Aryan](https://github.com/codev-aryan)**
 
 *Local2Stream v2.0.0 - Bringing your local music to the streaming world with style*
